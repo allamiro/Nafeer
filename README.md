@@ -1,4 +1,4 @@
-Nafeer Open Source Project
+* Nafeer Open Source Project
 
 Nafeer is a volunteer group of young people working together to aid families that have been affected by the heavy rains and flash floods in various areas of Khartoum State. 
 
@@ -21,7 +21,28 @@ System Users will have four  permission groups. Two  groupbs will be based on th
 2. Team Leads
 3. Directors
 4. Admins
-3. Incident Reporting System
+
+* Designs and WireFrames 
+
+
+
+Frontpage 
+
+- A website with slide show in the middle of the page and links  to the following pages:
+
+--Login/Signin Page - allow logins for registered volunteers , users, team leads, admins to perform their functions based on their permissions
+--Forgot Password should be available to allow every one to reset their passwords.
+
+--users can edit their details only   , team leads can create groups and add users to their groups , directors can edit sections , admins  can manage all of the system including creating user accounts.
+
+Signin Front UI page
+
+
+
+
+
+
+Incident Reporting System
 
 Reporting Page 
 
