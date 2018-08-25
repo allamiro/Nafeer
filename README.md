@@ -15,14 +15,18 @@ The application consists from the following :
 The webfront end  will have menus ,slide show , a link to report the incidents. 
 2. Authentication System
 System Users , System Admin Users
-System Users will have three permission groups based on their assignments.
-users , directors
+System Users will have four  permission groups. Two  groupbs will be based on their assignments/sections:
 
+1. Users 
+2. Team Leads
+3. Directors
+4. Admins
 3. Incident Reporting System
 
 Reporting Page 
 
 Reporting Management Page
+
 
 
 
