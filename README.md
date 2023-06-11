@@ -1,53 +1,32 @@
-* Nafeer Open Source Project
+# The Nafeer Open Source Project
 
-Nafeer is a volunteer group of young people working together to aid families that have been affected by the heavy rains and flash floods in various areas of Khartoum State. 
+The Nafeer Open Source Project is an initiative led by a volunteer team of young individuals, dedicated to providing assistance to families impacted by severe rainfall and flash floods in different regions of Khartoum State.
 
-The open source project is created for every one around the world  espcially volunteer groups that needs an open source to address a similar situation.
+This open-source project is designed for a global audience, particularly for volunteer groups seeking an open-source solution to address similar crisis situations.
 
-The software will be made with code igniter version 3.x.
+The software will be developed using CodeIgniter version 3.x.
 
-Any one wants to contribute is welcome to contact me at tsuliman@linuxvaults.com or run git clone :) you know the drill.
+If you're interested in contributing to the project, you're warmly welcomed to get in touch with me at `tsuliman@linuxvaults.com`, or alternatively, clone the project via Git - you're probably familiar with the process.
 
+## The application comprises the following key components:
 
-The application consists from the following :
+1. **Web Front End**: This interface will include menus, a slideshow, and a link to report incidents.
 
-1. Web Front End 
-The webfront end  will have menus ,slide show , a link to report the incidents. 
-2. Authentication System
-System Users , System Admin Users
-System Users will have four  permission groups. Two  groupbs will be based on their assignments/sections:
+2. **Authentication System**: This will cater to System Users and System Admin Users. System Users will be segregated into four permission groups, two of which will be defined based on their respective assignments/sections:
+   - Users
+   - Team Leads
+   - Directors
+   - Admins
 
-1. Users 
-2. Team Leads
-3. Directors
-4. Admins
+3. **Designs and Wireframes**: 
 
-* Designs and WireFrames 
+   **Frontpage**: This webpage will feature a slideshow in the center and links to various other pages such as:
+      - Login/Signin Page: Allows registered volunteers, users, team leads, and admins to login and execute their roles as per their permissions. A 'Forgot Password' option will be available for resetting passwords.
+      - Users can only modify their personal details. Team leads can form groups and add users to them. Directors can alter sections, while admins have the power to manage the entire system, including the creation of user accounts.
 
+4. **Signin Front UI page**
 
+5. **Incident Reporting System**: 
 
-Frontpage 
-
-- A website with slide show in the middle of the page and links  to the following pages:
-
---Login/Signin Page - allow logins for registered volunteers , users, team leads, admins to perform their functions based on their permissions
---Forgot Password should be available to allow every one to reset their passwords.
-
---users can edit their details only   , team leads can create groups and add users to their groups , directors can edit sections , admins  can manage all of the system including creating user accounts.
-
-Signin Front UI page
-
-
-
-
-
-
-Incident Reporting System
-
-Reporting Page 
-
-Reporting Management Page
-
-
-
-
+   - Reporting Page
+   - Reporting Management Page
